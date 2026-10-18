@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cimapsicologosgranada.es/sitemap.xml

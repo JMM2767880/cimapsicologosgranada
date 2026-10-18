@@ -1,0 +1,9 @@
+# Activar motor de reescritura en Hostinger
+RewriteEngine On
+
+# Redirección 301 de la antigua página de WordPress a la nueva sección
+Redirect 301 /nuestros-servicios https://cimapsicologosgranada.es/#especialidades
+Redirect 301 /nuestros-servicios/ https://cimapsicologosgranada.es/#especialidades
+
+# Página de error 404 personalizada
+ErrorDocument 404 /404.html
